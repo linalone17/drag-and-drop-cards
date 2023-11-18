@@ -1,0 +1,12 @@
+.Title {
+    height: 100%;
+    width: 100%;
+}
+
+.App {
+    width: 100vw;
+    padding: 200px 200px 200px 200px;
+    box-sizing: border-box;
+    /* height: 600px; */
+    outline: 1px solid white;
+}
